@@ -5,7 +5,7 @@
 
 # 상황 )
 #  - one input layer(size 2), one hidden layer(size 8), one output layer(size 1)
-#  - learning rate : 0.01
+#  - learning rate : 0.005
 #  - stochastic gradient descent : weight update ( batch size = 1 )
 #  - plot the loss versus the number of epochs => convergence of training
 
