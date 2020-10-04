@@ -10,7 +10,7 @@
 ### 목차
 
  - [x] 1. fully-connected neural network (loss)
- - [ ] 2. fully-connected neural network (loss&validation loss)
+ - [x] 2. fully-connected neural network (loss&validation loss)
  - [ ] 3. network embedding (matrix factorization)
  - [ ] 4. network embedding (word2vec : softmax)
  - [ ] 5. network embedding (word2vec : hierarchical softmax)
